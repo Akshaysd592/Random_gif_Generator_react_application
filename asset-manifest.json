@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Random_gif_Generator_react_application/static/css/main.daa344d9.css",
+    "main.js": "/Random_gif_Generator_react_application/static/js/main.35a4e6b4.js",
+    "index.html": "/Random_gif_Generator_react_application/index.html",
+    "main.daa344d9.css.map": "/Random_gif_Generator_react_application/static/css/main.daa344d9.css.map",
+    "main.35a4e6b4.js.map": "/Random_gif_Generator_react_application/static/js/main.35a4e6b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daa344d9.css",
+    "static/js/main.35a4e6b4.js"
+  ]
+}
